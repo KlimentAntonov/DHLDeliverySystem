@@ -515,8 +515,8 @@ private void loadAllParcels(){
         p.setWeight(jTxtWeight.getText());
         p.setPrice(jTxtPrice.getText());
         p.setNumber(ParcelNumber.getText());
-        jLabel17.setText(jTxtWeight.getText());
-        jLabel18.setText(jTxtReceiverName.getText());
+        jLabel17.setText(jTxtReceiverName.getText());
+        jLabel18.setText(jTxtWeight.getText());
         jLabel19.setText(jTxtPrice.getText());
         jLabel22.setText(jTxtSenderName.getText());
         jLabel23.setText(ParcelNumber.getText());
